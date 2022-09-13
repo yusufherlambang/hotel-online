@@ -7,3 +7,5 @@ sesuatu text dalam diri sendiri
 sesuatu text dalam diri sendiri
 
 sesuatu text dalam diri sendiri
+
+coba create pull request langsung menggunakan syntax
